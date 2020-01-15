@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/res/audio/background.wav" />
+    <file url="file://$PROJECT_DIR$/res/audio/button_press.wav" />
+    <file url="file://$PROJECT_DIR$/res/audio/level_two.wav" />
+    <file url="file://$PROJECT_DIR$/res/audio/shoot.wav" />
+    <file url="file://$PROJECT_DIR$/res/audio/start_music.wav" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
